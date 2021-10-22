@@ -2,4 +2,17 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Henrique Delgado</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Olá, meu nome é Henrique
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat nisi eu metus blandit vehicula.
+        Etiam luctus sem in augue convallis pretium. Integer sed convallis nisl. Sed pulvinar odio ut tortor varius sodales.
+        Orbi feugiat leo non cursus vehicula. Nullam ac tristique massa. Phasellus consectetur convallis ornare.
+        \n\nNam ut venenatis sapien, eget sodales lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        In hac habitasse platea dictumst.
+        Nulla nec est dictum massa cursus ultricies.
+        Nullam tempor vel risus eu rhoncus. Curabitur ipsum nibh, fringilla sit amet nibh eu, tempus cursus lacus.
+        \n\nInteger iaculis dictum scelerisque. Nullam tempor bibendum nisl ac condimentum.
+        Nulla scelerisque velit nec diam porta, vel faucibus tellus ultrices.
+        Cras gravida mollis arcu consectetur aliquam. Aliquam eget velit auctor, posuere nulla quis, molestie mauris.
+        \n\nNam scelerisque augue enim, porta aliquet sem sagittis sodales. Integer in volutpat ligula.
+        Donec volutpat viverra augue, et vestibulum ante ullamcorper eget.</string>
 </resources>
