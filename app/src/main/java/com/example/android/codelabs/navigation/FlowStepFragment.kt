@@ -39,6 +39,8 @@ class FlowStepFragment : Fragment() {
         val safeArgs: FlowStepFragmentArgs by navArgs()
         val flowStepNumber = safeArgs.flowStepNumber
 
+        safeArgs.flowStepNumber
+
         return when (flowStepNumber) {
             2 -> inflater.inflate(R.layout.flow_step_two_fragment, container, false)
             else -> inflater.inflate(R.layout.flow_step_one_fragment, container, false)

@@ -38,6 +38,11 @@
             app:argType="integer"
             android:defaultValue="1"/>
 
+        <argument
+            android:name="stringNumber"
+            app:argType="string"
+            android:defaultValue="teste"/>
+
         <action
             android:id="@+id/next_action"
             app:destination="@+id/flow_step_two_dest">
@@ -53,6 +58,10 @@
             android:name="flowStepNumber"
             app:argType="integer"
             android:defaultValue="2"/>
+        <argument
+            android:name="stringNumber"
+            app:argType="string"
+            android:defaultValue="teste"/>
 
         <action
             android:id="@+id/next_action"
